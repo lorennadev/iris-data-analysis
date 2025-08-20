@@ -10,7 +10,7 @@ This project performs an exploratory data analysis (EDA) on the famous Iris data
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/seu-usuario/iris-data-analysis.git
+   git clone https://github.com/lorennadev/iris-data-analysis.git
    cd iris-data-analysis
    ```
 
